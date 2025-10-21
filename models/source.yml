@@ -1,0 +1,8 @@
+sources:
+  - name: BRIAN_DB
+    database: BRIAN_DB
+    schema: PUBLIC
+    tables:
+      - name: brian_chris
+      
+  
